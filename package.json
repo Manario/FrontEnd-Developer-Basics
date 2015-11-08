@@ -1,9 +1,14 @@
 {
 	"name" : "FrontEnd Developer Basics",
 	"version" : "0.1.0",
-	"description": "Paquetes basicos para desarrollo Front-End",
-	"author": {
-		"name": "Giovanny Vázquez"
+	"private" : true,
+	"description" : "Paquetes basicos para desarrollo Front-End",
+	"author" : {
+		"name" : "Giovanny Vázquez"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "git://github.com/manario/FrontEnd-Developer-Basics"
 	},
 	"devDependencies" : {
 		"grunt" : "~0.4.5",
